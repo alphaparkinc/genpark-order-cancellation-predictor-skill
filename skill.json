@@ -1,5 +1,5 @@
 {
-  "name": "order-cancellation-predictor-skill",
+  "name": "genpark-order-cancellation-predictor-skill",
   "version": "1.0.0",
   "description": "GenPark AI Agent Skill - Predict order cancellation risk based on customer profiles and checkout attributes.",
   "author": "genpark",
