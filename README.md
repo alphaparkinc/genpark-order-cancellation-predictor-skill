@@ -1,4 +1,4 @@
-# order-cancellation-predictor-skill
+# genpark-order-cancellation-predictor-skill
 
 > **GenPark AI Agent Skill** -- Predictive cancellation risk analyzer.
 
